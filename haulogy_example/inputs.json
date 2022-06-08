@@ -1,0 +1,10 @@
+{
+  "default_price_retailer_in": 220.0,
+  "default_price_retailer_out": 60.0,
+  "default_price_local_in": 172.0,
+  "default_price_local_out": 170.0,
+  "default_price_deviation_energy": 1.0,
+  "default_max_deviation": 1.0,
+  "default_min_ssr_user": 0.0,
+  "min_ssr_rec": 0.0
+}
